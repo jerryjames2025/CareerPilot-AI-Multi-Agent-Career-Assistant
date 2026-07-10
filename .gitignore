@@ -1,1 +1,60 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables
+.env
+*.env
+
+# Outputs and generated reports
+outputs/
+*.pdf
+*.docx
+
+# Uploaded private data
+data/*.pdf
+data/*.docx
+data/*.txt
+data/*.csv
+data/*.json
+
+# Keep data folder structure
+!data/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model/cache files
+.cache/
+models/
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Hugging Face / sentence-transformers cache
+huggingface/
+sentence_transformers/
