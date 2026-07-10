@@ -173,3 +173,32 @@ Final Career Report
         |-- PDF Report
         |-- Agent Trace Logs
         |-- Career Memory
+
+
+START
+  ↓
+load_jd
+  ↓
+resume_analysis
+  ↓
+jd_analysis
+  ↓
+skill_gap
+  ↓
+resume_optimizer
+  ↓
+interview_coach
+  ↓
+roadmap
+  ↓
+cover_letter
+  ↓
+career_crew
+  ↓
+final_report
+  ↓
+evaluator
+  ↓
+save_report
+  ↓
+END
