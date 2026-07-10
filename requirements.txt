@@ -1,0 +1,13 @@
+pymupdf
+requests
+scikit-learn
+numpy
+pandas
+sentence-transformers
+faiss-cpu
+streamlit
+langgraph
+reportlab
+crewai
+python-dotenv
+openai
