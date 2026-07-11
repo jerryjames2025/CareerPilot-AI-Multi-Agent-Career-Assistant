@@ -2,6 +2,8 @@
 
 CareerPilot AI is an end-to-end **Agentic AI career assistant** that helps candidates analyze their resume against a job description, identify skill gaps, optimize their resume, generate interview preparation questions, create a cover letter, build a preparation roadmap, and export a complete career report.
 
+Access full project folder - Drive Link - https://drive.google.com/drive/folders/1qtHTUFWEBS2WPNWABXKwGa1S-Qrujuua?usp=sharing
+
 This project combines:
 
 - Retrieval-Augmented Generation
